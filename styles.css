@@ -166,6 +166,7 @@ nav.menu {
 
 .main {
   grid-area: main;
+  height: calc(100vh - 100px);
 }
 
 .blurb-holder {
